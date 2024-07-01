@@ -12,7 +12,7 @@ My ultimate goal is to initiate impossible things through web development. I bel
 - **Tools:** Git, GitHub, VS Code
 
 ## 🏆 Projects & Achievements
-- **Plastic Waste Detection on Rivers Using YOLOv5 Algorithm:** Developed a cutting-edge solution to detect plastic waste in rivers using the YOLOv5 algorithm. This project leverages deep learning techniques to identify and categorize waste materials, contributing to environmental conservation efforts. https://ieeexplore.ieee.org/document/9984439
+- **Plastic Waste Detection on Rivers Using YOLOv5 Algorithm:** Developed a cutting-edge solution to detect plastic waste in rivers using the YOLOv5 algorithm. This project leverages deep learning techniques to identify and categorize waste materials, contributing to environmental conservation efforts. [Link to Project](https://ieeexplore.ieee.org/document/9984439)
 
 ## 📫 Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dunhill-guantero-a351932b5/). I'm always open to networking, collaborating, and discussing new ideas.
