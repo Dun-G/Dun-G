@@ -20,7 +20,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dunhill-g
 ## 💬 Let's Chat!
 - **Email:** guanterodun17@gmail.com
 
-## 🚀 Let's Create Something Amazing because It's Kind of Fun To Do The Impossible!
+## 🚀 It's Kind of Fun To Do The Impossible!
 I'm always excited to collaborate on new projects, brainstorm ideas, and create innovative web solutions.
 
 ---
