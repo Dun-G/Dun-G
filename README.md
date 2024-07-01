@@ -8,7 +8,7 @@ My ultimate goal is to initiate impossible things through web development. I bel
 
 ## 🛠️ Skills & Tools
 - **Languages:** JavaScript, HTML, CSS, Python
-- **Frameworks & Libraries:** React, Node.js, Express
+- **Frameworks & Libraries:** React, Node.js, Bootstrap, jQuery
 - **Tools:** Git, GitHub, VS Code
 
 ## 🏆 Projects & Achievements
