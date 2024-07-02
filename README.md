@@ -24,6 +24,6 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dunhill-g
 I'm always excited to collaborate on new projects, brainstorm ideas, and create innovative web solutions.
 
 ---
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dunguantero&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true)
 
 Thanks for stopping by! 🫡
