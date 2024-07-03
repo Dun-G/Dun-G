@@ -17,7 +17,7 @@
 <div align="center">
   <h3><img src="./code1.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h3>
 </div>
-<img src="./grad-line.gif" height="10" width="100%">
+<img src="./grad-line.gif" height="5" width="100%">
 
 <div style="display: flex; flex-direction: column;">
   <div align="right" style="flex: 1;">
@@ -65,7 +65,7 @@
 <!--End of Tech Stack and Skills-->  
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="./grad-line.gif" height="5" width="100%">
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true">
