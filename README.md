@@ -2,7 +2,7 @@
 
 <!--Intro Section--> 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=30&center=true&vCenter=true&width=900&height=80&font=Press+Start+2P&lines=Welcome!;I'm+Dunhill+Guantero;>>Fullstack+Developer👨🏾‍💻;>>Frontend+Developer🌐;>>Backend+Developer👾;%40dun_guantero">
+<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=30&center=true&vCenter=true&width=900&height=80&font=Press+Start+2P&lines=Hello There!;>>Fullstack+Developer👨🏾‍💻;>>Frontend+Developer🌐;>>Backend+Developer👾;%40dun_guantero">
 </p>
 <!--End--> 
 
