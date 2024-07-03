@@ -26,7 +26,7 @@
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
     <picture>
-      <img align = "left" src="./comp1.gif" height="100px" style="max-width:100%;">
+      <img align = "left" src="./comp1.gif" style="max-width:100%;max-height:100%">
     </picture>
 </div>
   
