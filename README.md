@@ -19,7 +19,9 @@
       <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
-  </div>
+  </br>
+  </br>
+</div>
   
   #### Programming Languages & Frameworks & Library
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
