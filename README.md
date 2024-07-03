@@ -15,7 +15,7 @@
 
 <a> <img align='right' src="./my-pic.gif" width="350" alt="HyunSun's Dev Card" /></a>
 
-<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+<h2 align="center"> Curious, and passionate amongst all things!</h2>
 
 * 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
 
