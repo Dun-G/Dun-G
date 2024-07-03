@@ -27,7 +27,7 @@
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
     <picture>
-      <img align="center" alt="GIF description" src="./mol.gif">
+      <img align="left" alt="GIF description" src="./mol.gif">
     </picture>
 </div>
   
