@@ -25,9 +25,12 @@
       <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
-    <picture">
-      <img style="margin: 100 100;" align="left" alt="GIF description" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-    </picture>
+<!-- &nbsp; is a non-breaking space -->
+&nbsp; &nbsp; &nbsp;
+<picture>
+    <!-- Your image tag here -->
+</picture>
+&nbsp; &nbsp; &nbsp;
 </div>
   
   #### Programming Languages & Frameworks & Library
