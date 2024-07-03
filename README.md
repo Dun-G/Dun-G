@@ -18,7 +18,7 @@
   <h2><img src="./code1.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="25px" style="max-width:100%;"></h2>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex;flex-direction:column;">
   <div align="right" style="flex: 1;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -26,6 +26,8 @@
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./java.gif">
     </picture>
 </div>
