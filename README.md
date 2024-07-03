@@ -27,7 +27,7 @@
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
     <picture>
-      <img align="left" alt="GIF description" src="./hand.png" width="535" height="460">
+      <img align="left" alt="GIF description" src="./hand1.png" width="535" height="460">
     </picture>
 </div>
   
