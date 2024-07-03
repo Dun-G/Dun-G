@@ -25,6 +25,7 @@
       <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
+    <img src="./man1.gif" height="100px" style="max-width:100%;">
 </div>
   
   #### Programming Languages & Frameworks & Library
