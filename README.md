@@ -100,8 +100,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
-![](https://komarev.com/ghpvc/?username=Dun-G&abbreviated=true&label=Profile+Views&style=flat-square&color=purple)
-
+  ![](https://komarev.com/ghpvc/?username=Dun-G&abbreviated=true&label=Profile+Views&style=flat-square&color=800080)
 
 
 
