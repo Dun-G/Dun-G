@@ -1,4 +1,4 @@
-![Header](./[banner.gif])
+![Header](./banner.gif)
 
 <!--Intro Section--> 
 <p align='center'>
