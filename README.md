@@ -9,7 +9,7 @@
 
 <!--Tech Stack and Skills-->       
 <div align="center">
-  <h2>Tech Stack and Skills <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;"></h2>
+  <h2>Tech Stack and Skills <img src="./code1.jpg" height="25px" style="max-width:100%;"></h2>
 </div>
 
 <div style="display: flex;">
