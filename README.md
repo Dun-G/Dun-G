@@ -15,17 +15,19 @@
 
 <a> <img align='right' src="./my-pic.gif" width="350" alt="Dunhill Grad's Pic" /></a>
 
-* 🌐 Passionate about web development and cybersecurity<br><br>
+* 🎓 Graduated Bachelor of Science in Computer Engineering in Mapúa University<br>
 
-* 💻 Skilled in frontend and backend technologies<br><br>
+* 🌐 Passionate about web development and cybersecurity<br>
 
-* 🛡️ Focused on integrating network security in web applications<br><br>
+* 💻 Skilled in frontend and backend technologies<br>
 
-* 🚀 Always eager to learn new technologies and take on challenging projects<br><br>
+* 🛡️ Focused on integrating network security in web applications<br>
 
-* ☕ Interest: Cats, Coffee, Cars and Coding. <br><br>
+* 🚀 Always eager to learn new technologies and take on challenging projects<br>
 
-* :octocat: Hobbies: Sleeping, Code, Discord, and Reddit. <br><br>
+* ☕ Interest: Cats, Coffee, Cars and Coding. <br>
+
+* :octocat: Hobbies: Sleeping, Code, Discord, and Reddit. <br>
 
 <!--About Me End--> 
 
