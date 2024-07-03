@@ -90,7 +90,6 @@
   
 <img src="./grad-line.gif" height="5" width="100%">
 </br>
-</br>
 <!--End of Tech Stack and Skills-->  
 
 <!--Github Stats-->
