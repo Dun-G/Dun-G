@@ -93,7 +93,8 @@
 
 <!--Github Stats-->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple)
+![Dunhill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
