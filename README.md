@@ -13,11 +13,12 @@
 </div>
 <!--About Me End--> 
 
+<img src="./grad-line.gif" height="5" width="100%">
 <!--Tech Stack and Skills-->   
 <div align="center">
   <h3><img src="./code1.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h3>
 </div>
-<img src="./grad-line.gif" height="5" width="100%">
+
 
 <div style="display: flex; flex-direction: column;">
   <div align="right" style="flex: 1;">
