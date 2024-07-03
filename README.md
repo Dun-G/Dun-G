@@ -10,7 +10,7 @@
 </br >
 </br >
 </br >
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!--Tech Stack and Skills-->       
 <div align="center">
