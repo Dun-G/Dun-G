@@ -10,7 +10,7 @@
 
 <!--Tech Stack and Skills-->       
 <div align="center">
-  <h2>Tech Stack and Skills <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"></h2>
+  <h2>Tech Stack and Skills <img src="./banner.gif" height="20" width="100%"></h2>
 </div>
 
 <div style="display: flex;">
