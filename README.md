@@ -91,6 +91,10 @@
 <img src="./grad-line.gif" height="5" width="100%">
 <!--End of Tech Stack and Skills-->  
 
+<!--Github Stats-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple)
+
 
 
 <img src="./fade-line.gif" height="10" width="100%">
