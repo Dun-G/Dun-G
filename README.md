@@ -93,9 +93,7 @@
 <img src="./grad-line.gif" height="5" width="100%">
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true" alt="Spotify GitHub Profile">
-  </a>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dunguantero&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=dunguantero&cover_image=true&theme=novatorem&show_offline=true&background_color=051923&interchange=true&bar_color_cover=true&bar_color=00a6fb)]]
 </div>
 
 <img src="./fade-line.gif" height="10" width="100%">
