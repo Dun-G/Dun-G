@@ -9,7 +9,7 @@
 
 <!--About Me-->       
 <div align="center">
-  <h2><img src="./code.gif" height="25px" style="max-width:100%;"> About Me <img src="./code.gif" height="25px" style="max-width:100%;"></h2>
+  <h2><img src="./man.gif" height="25px" style="max-width:100%;"> About Me <img src="./man.gif" height="25px" style="max-width:100%;"></h2>
 </div>
 <!--About Me End--> 
 
