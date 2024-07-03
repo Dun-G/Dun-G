@@ -93,7 +93,7 @@
 
 <!--Github Stats-->
 
-<h2 align="center"> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20px" height="30px"> My Github Stats</h2>
+  <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20px" height="30px"> My Github Stats <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20px" height="30px"> </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple" alt="Dunhill's GitHub stats" />
 </p>
