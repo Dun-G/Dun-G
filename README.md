@@ -25,8 +25,8 @@
       <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
-    <picture>
-      <img align="left" alt="GIF description" src="./banner.gif" height="100%" width="100%">
+    <picture style="margin-top: 50px;">
+      <img align="left" alt="GIF description" src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
     </picture>
 </div>
   
