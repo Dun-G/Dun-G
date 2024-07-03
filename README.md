@@ -7,6 +7,7 @@
 </p>
 <!--End--> 
 
+<img src="./fade-line.gif" height="5" width="100%">
 <!--About Me-->       
 <div align="center">
   <h3><img src="./man1.gif" height="20px" style="max-width:100%;"> About Me <img src="./man1.gif" height="20px" style="max-width:100%;"></h3>
