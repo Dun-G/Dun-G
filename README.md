@@ -28,7 +28,7 @@
       <img align="left" alt="GIF description" src="./Skills_Animation_White1.gif">
     </picture>
     <picture>
-      <img align="left" alt="GIF description" src="./hand.gif" width="535" height="460">
+      <img align="left" alt="GIF description" src="./mario.gif" width="535" height="460">
     </picture>
 </div>
   
