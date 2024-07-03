@@ -6,11 +6,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=20&center=true&vCenter=true&width=500&height=80&font=Press+Start+2P&lines=Hello+There!;>>Fullstack+Developer👨🏾‍💻;>>Frontend+Developer🌐;>>Backend+Developer👾;%40dun_guantero">
 </p>
 <!--End--> 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20px"width="100%">
 
 <!--Tech Stack and Skills-->       
 <div align="center">
-  <h2>Tech Stack and Skills <img src="./code1.gif" margin-top:10px height="auto" width="30px"></h2>
+  <h2>Tech Stack and Skills></h2>
 </div>
 
 <div style="display: flex;">
