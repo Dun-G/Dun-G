@@ -16,7 +16,7 @@
 <img src="./grad-line.gif" height="5" width="100%">
 <!--Tech Stack and Skills-->   
 <div align="center">
-  <h3><img src="./code1.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h3>
+  <h2><img src="./code1.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h3>
 </div>
 
 
