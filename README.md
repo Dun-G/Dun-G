@@ -60,11 +60,8 @@
 
 ---
 <div align="center">
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/31doy22mvycwt43tx6ajtqe7tdtu)
-
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true" alt="Spotify GitHub Profile">
+  </a>
 </div>
 
-
-Thanks for stopping by! 🫡
