@@ -31,7 +31,6 @@ Actively Going through:
 
 * :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
 
-<h2></h2><br>
 <!--About Me End--> 
 
 <img src="./grad-line.gif" height="5" width="100%">
