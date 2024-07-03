@@ -18,11 +18,13 @@
 </picture>
 <br />
 
-<h3 align="left">Current Learning</h3>
+<h3 align="left">Programming Languages</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](#)</li>
+  <li>[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)</li>
+  <li>[![Jquery](https://img.shields.io/badge/jquery3%20-%231572B6.svg?&style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)](#)</li>
+  <li>[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)</li>
+  <li>[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)</li>
 </ul>
   
 <h3 align="left">Latest Blog Posts</h3>
