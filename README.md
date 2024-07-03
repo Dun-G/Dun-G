@@ -100,6 +100,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
+</br>
+
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dun-G&abbreviated=true&label=Profile+Views&style=for-the-badge&color=800080" alt="Profile Views" />
 </p>
