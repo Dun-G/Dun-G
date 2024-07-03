@@ -15,15 +15,17 @@
 
 <a> <img align='right' src="./my-pic.gif" width="350" alt="Dunhill Grad's Pic" /></a>
 
-* 🌳 I’m currently learning Vanilla JavaScript & React!
+* 🌐 Passionate about web development and cybersecurity<br><br>
 
-* 🐾 I’m looking to network and make friends here!
+* 💻 Skilled in frontend and backend technologies<br><br>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects
+* 🛡️ Focused on integrating network security in web applications<br><br>
 
-* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+* 🚀 Always eager to learn new technologies and take on challenging projects<br><br>
 
-* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+* ☕ Interest: Cats, Coffee, Cars and Coding. <br><br>
+
+* :octocat: Hobbies: Sleeping, Code, Discord, and Reddit. <br><br>
 
 <!--About Me End--> 
 
