@@ -1,4 +1,5 @@
 ![Header](./banner.gif)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <!--Intro Section--> 
 <p align='center'>
@@ -52,9 +53,8 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
+<!--End of Tech Stack and Skills-->  
 
-<br />
----
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true" alt="Spotify GitHub Profile">
