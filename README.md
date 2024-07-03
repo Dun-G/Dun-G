@@ -7,6 +7,12 @@
 </p>
 <!--End--> 
 
+<!--About Me-->       
+<div align="center">
+  <h2><img src="./code.gif" height="25px" style="max-width:100%;"> About Me <img src="./code.gif" height="25px" style="max-width:100%;"></h2>
+</div>
+<!--About Me End--> 
+
 <!--Tech Stack and Skills-->       
 <div align="center">
   <h2><img src="./code.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code.gif" height="25px" style="max-width:100%;"></h2>
