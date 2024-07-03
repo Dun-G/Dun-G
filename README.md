@@ -15,13 +15,11 @@
 
 <a> <img align='right' src="./my-pic.gif" width="350" alt="Dunhill Grad's Pic" /></a>
 
-<h2 align="center"> Curious, and passionate amongst all things!</h2>
+* 🌳 I’m currently learning Vanilla JavaScript & React!
 
-* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
+* 🐾 I’m looking to network and make friends here!
 
-* 🐾 I’m looking to network and make friends here! <br><br>
-
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+* 🌊 2023 Goals: Contribute more to Open Source projects
 
 * ☕ Interest: Cats, Coffee, and Coding. <br><br>
 
