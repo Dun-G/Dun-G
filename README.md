@@ -29,6 +29,8 @@
 
 * :octocat: Hobbies: Sleeping, Code, Discord, and Reddit. <br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 <!--About Me End--> 
 
 <img  src="./borderseperator.gif">
@@ -89,7 +91,7 @@
 
 <!--End of Tech Stack and Skills-->  
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 <img src="./fade-line.gif" height="10" width="100%">
 
