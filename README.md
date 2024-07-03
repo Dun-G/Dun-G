@@ -9,13 +9,13 @@
 
 <!--About Me-->       
 <div align="center">
-  <h2><img src="./man.gif" height="25px" style="max-width:100%;"> About Me <img src="./man.gif" height="25px" style="max-width:100%;"></h2>
+  <h2><img src="./man1.gif" height="30px" style="max-width:100%;"> About Me <img src="./man1.gif" height="30px" style="max-width:100%;"></h2>
 </div>
 <!--About Me End--> 
 
 <!--Tech Stack and Skills-->       
 <div align="center">
-  <h2><img src="./code.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code.gif" height="25px" style="max-width:100%;"></h2>
+  <h2><img src="./code1.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="25px" style="max-width:100%;"></h2>
 </div>
 
 <div style="display: flex;">
