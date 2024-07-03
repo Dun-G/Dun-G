@@ -7,9 +7,10 @@
 </p>
 <!--End--> 
 
-<br/ >
-<br/ >
-<br/ >
+</br >
+</br >
+</br >
+
 
 <!--Tech Stack and Skills-->       
 <div align="center">
