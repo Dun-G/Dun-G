@@ -86,7 +86,7 @@
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
-<img src="./fade-line.gif" height="10" width="100%">
+
 <!--End of Tech Stack and Skills-->  
 
 
@@ -97,4 +97,6 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=660000&bar_color_cover=true" alt="Spotify GitHub Profile">
   </a>
 </div>
+
+<img src="./fade-line.gif" height="10" width="100%">
 
