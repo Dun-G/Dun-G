@@ -13,9 +13,10 @@
 </div>
 <!--About Me End--> 
 
-<!--Tech Stack and Skills-->       
+<!--Tech Stack and Skills-->   
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-  <h2><img src="./code1.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="25px" style="max-width:100%;"></h2>
+  <p><img src="./code1.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="25px" style="max-width:100%;"></p>
 </div>
 
 <div style="display: flex;flex-direction:column;">
