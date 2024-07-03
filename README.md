@@ -22,9 +22,9 @@
 <div style="display: flex; flex-direction: column;">
   <div align="right" style="flex: 1;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-      <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark1.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White1.gif">
+      <img align="left" alt="GIF description" src="./Skills_Animation_White1.gif">
     </picture>
     <picture>
       <img align="left" alt="GIF description" src="./hand.gif" width="535" height="460">
