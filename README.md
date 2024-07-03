@@ -89,6 +89,8 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 <img src="./grad-line.gif" height="5" width="100%">
+</br>
+</br>
 <!--End of Tech Stack and Skills-->  
 
 <!--Github Stats-->
