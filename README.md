@@ -12,6 +12,26 @@
 <div align="center">
   <h3><img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMDU4NTAsIm5iZiI6MTcyMDAwNTU1MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDExMTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MzIxNTlmODk3MDNjYmM3OTZmZTA2Y2FjMzY1NDQ3ZjIyZmExMTZjZjY4OTBiYjAxN2Y3ZDA3YzBkNDlkMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._IM22Q_u6Q2irnr9A7JizrjdlGcfIo4VYkEj6vzKjJM" height="20px" width="30px"> About Me <img src="https://private-user-images.githubusercontent.com/74038190/238200844-87b72768-3740-4648-b118-c3164ff654cd.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjAwMDU4NTAsIm5iZiI6MTcyMDAwNTU1MCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4NDQtODdiNzI3NjgtMzc0MC00NjQ4LWIxMTgtYzMxNjRmZjY1NGNkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzAzVDExMTkxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MzIxNTlmODk3MDNjYmM3OTZmZTA2Y2FjMzY1NDQ3ZjIyZmExMTZjZjY4OTBiYjAxN2Y3ZDA3YzBkNDlkMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._IM22Q_u6Q2irnr9A7JizrjdlGcfIo4VYkEj6vzKjJM" height="20px" width="30px"></h3>
 </div>
+
+<a href="https://app.daily.dev/HyunCafe"> <img align='right' src="https://api.daily.dev/devcards/e7a301739d004f1f99c4ce18c050b111.png?r=d7k" width="350" alt="HyunSun's Dev Card" /></a>
+
+<h2 align="center"> Self-taught, curious, and <img src="assests/flamey.gif" width="30"/>passionate<img src="assests/flamey.gif" width="30"/> about coding!</h2>
+
+* 🌳 I’m currently learning Vanilla JavaScript & React! <br> 
+Actively Going through:
+  - 100 Devs with Leon
+  - The Odin Project: Fundamentals + Full Stack JavaScript
+  - Udemy: The Complete Javascript Course w/ Jonas Schmedtmann  <br>
+
+* 🐾 I’m looking to network and make friends here! <br><br>
+
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+
+* ☕ Interest: Cats, Coffee, and Coding. <br><br>
+
+* :octocat: Hobbies: Sleeping, Anime/Manga, Gacha Games, Discord, and Reddit. <br><br>
+
+<h2></h2><br>
 <!--About Me End--> 
 
 <img src="./grad-line.gif" height="5" width="100%">
