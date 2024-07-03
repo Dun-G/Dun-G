@@ -96,8 +96,8 @@
 
   <h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20px" height="30px"> My Github Stats <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="20px" height="30px"> </h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dun-Gl&theme=merko&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-Gl&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dun-G&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
 </div>
 
 
