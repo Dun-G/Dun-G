@@ -17,7 +17,7 @@
 <div align="center">
   <h3><img src="./code1.gif" height="25px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="25px" style="max-width:100%;"></h3>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="10" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div style="display: flex; flex-direction: column;">
   <div align="right" style="flex: 1;">
