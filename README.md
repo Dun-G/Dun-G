@@ -52,12 +52,6 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
-
-<br />
-<br />
-<br />
-<br />
-
 ---
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=dunguantero&redirect=true">
