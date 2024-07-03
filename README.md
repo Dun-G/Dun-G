@@ -25,12 +25,11 @@
       <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
       <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
     </picture>
-<!-- &nbsp; is a non-breaking space -->
-&nbsp; &nbsp; &nbsp;
-<picture>
-    <!-- Your image tag here -->
-</picture>
-&nbsp; &nbsp; &nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+      <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+      <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+    </picture>
 </div>
   
   #### Programming Languages & Frameworks & Library
