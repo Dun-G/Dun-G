@@ -17,7 +17,7 @@
 <img src="./grad-line.gif" height="5" width="100%">
 <!--Tech Stack and Skills-->   
 <div align="center">
-  <h3><img src="./code1.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h3>
+  <h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20px" style="max-width:100%;"> Tech Stack and Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="20px" style="max-width:100%;"></h3>
 </div>
 
 
