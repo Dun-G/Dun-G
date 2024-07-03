@@ -1,9 +1,9 @@
 ![Header](./banner.gif)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="15%" style="display:inline;">
 
 <!--Intro Section--> 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=15&center=true&vCenter=true&width=300&height=80&font=Press+Start+2P&lines=Hello+There!;>>Fullstack+Developer👨🏾‍💻;>>Frontend+Developer🌐;>>Backend+Developer👾;%40dun_guantero">
+<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=30&center=true&vCenter=true&width=300&height=80&font=Press+Start+2P&lines=Hello+There!;>>Fullstack+Developer👨🏾‍💻;>>Frontend+Developer🌐;>>Backend+Developer👾;%40dun_guantero">
 </p>
 <!--End--> 
 
