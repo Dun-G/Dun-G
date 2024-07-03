@@ -1,7 +1,7 @@
 <!--Intro Section--> 
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%e5de00&size=30&center=true&vCenter=true&width=900&height=80&font=Press+Start+2P&lines=I'm+Dunhill+Guantero;>>Fullstack+Developer;>>Frontend+Developer;>>Backend+Developer;%40dunguantero">
+<img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&size=30&center=true&vCenter=true&width=900&height=80&font=Press+Start+2P&lines=I'm+Dunhill+Guantero;>>Fullstack+Developer;>>Frontend+Developer;>>Backend+Developer;%40dunguantero">
 </p>
 <!--End--> 
 
