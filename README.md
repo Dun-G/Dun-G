@@ -1,7 +1,9 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<!--Intro Section--> 
+<h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Dunhill+Guantero;Fullstack+Developer;Frontend+Developer;Backend+Developer;%40dunguantero">
+<img src="https://readme-typing-svg.herokuapp.com?color=%ffffff&size=30&center=true&vCenter=true&width=433&height=75&lines=I'm+Dunhill+Guantero;Fullstack+Developer;Frontend+Developer;Backend+Developer;%40dunguantero">
 </p>
+<!--End--> 
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Additional Information</h2> 
