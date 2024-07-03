@@ -93,8 +93,15 @@
 
 <!--Github Stats-->
 
-![Dunhill's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dun-G&show_icons=true&theme=midnight-purple" alt="Dunhill's GitHub stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dun-G&theme=midnight-purple" alt="Top Langs" />
+  </a>
+</p>
 
 
 
