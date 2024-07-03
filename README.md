@@ -9,7 +9,7 @@
 
 <!--Tech Stack and Skills-->       
 <div align="center">
-  <h2>Tech Stack and Skills <img src="./code1.gif" height="10px" style="max-width:100%;"></h2>
+  <h2>Tech Stack and Skills <img src="./code1.gif" height="20px" style="max-width:100%;"></h2>
 </div>
 
 <div style="display: flex;">
