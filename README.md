@@ -15,11 +15,11 @@
 
 <a> <img align='right' src="./my-pic.gif" width="350" alt="Dunhill Grad's Pic" /></a>
 
-* 🎓 Graduated Bachelor of Science in Computer Engineering in Mapúa University<br>
+* 🎓 Graduated Bachelor of Science in Computer Engineering at Mapúa University<br>
 
 * 🌐 Passionate about web development and cybersecurity<br>
 
-* 💻 Skilled in frontend and backend technologies<br>
+* 💻 Skilled in frontend, backend, network and artificial intelligence technologies<br>
 
 * 🛡️ Focused on integrating network security in web applications<br>
 
